@@ -1,0 +1,6 @@
+{
+  "appTitle": "flutterfire_cli_sample",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
